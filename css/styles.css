@@ -3,6 +3,11 @@ body {
   text-align: center;
 }
 
+img {
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
 .links {
   padding: 10px;
   color: gray;
